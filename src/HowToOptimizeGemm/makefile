@@ -1,7 +1,7 @@
-OLD  := MMult0
-NEW  := MMult0
+OLD  := MMult_4x4_13
+NEW  := MMult_4x4_15
 #
-# sample makefile
+# sample makefile 
 #
 
 CC         := gcc
